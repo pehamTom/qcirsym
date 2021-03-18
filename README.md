@@ -26,7 +26,7 @@ To build the tool go to the project folder and execute the following:
     ```commandline
    cmake --build ./build --config Release
    ```
-Make sure that the files "saucy.h" and "saucy.c" are in a folder called "saucy/". The "saucy/ folder should be on the topmost level of the project folder.
+Make sure that the files "saucy.h" and "saucy.c" are in a folder called "saucy/". The "saucy/" folder should be on the topmost level of the project folder.
 
 To use the tool go to the build directory and run 
 
