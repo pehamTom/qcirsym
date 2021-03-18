@@ -1,0 +1,9 @@
+#QCIR-G14 4
+forall(1,2)
+exists(3,4)
+output(9)
+5=or(3,4)
+6=and(-3,-4)
+7=and(1,2)
+8=or(6,-7)
+9=and(5,8)
