@@ -12,7 +12,7 @@ If you have any questions, feel free to contact me via pehamtom@gmx.at or by cre
 ### System Requirements
 
 The package has been tested under Linux (Ubuntu 18.04, 64-bit) and should be compatible with any current version of g++ supporting C++11 and a minimum CMake version of 3.13.
-The project also requires the Saucy graph automorphism tool [[2]](http://vlsicad.eecs.umich.edu/BK/SAUCY/).
+The project also requires the Saucy graph automorphism tool [[2]](http://vlsicad.eecs.umich.edu/BK/SAUCY/). The tool has been tested with saucy version 3.0.
 
 ### Build and Run
 
